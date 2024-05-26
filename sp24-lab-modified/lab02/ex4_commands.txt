@@ -1,0 +1,18 @@
+# You should be editing this file for exercise 4 of lab 2.
+# Make sure each command is on its own line
+# Lines starting with # are comments, feel free to add any to document your commands
+
+# Please add your commands below this line
+start
+break check_number
+run
+next
+step
+break 31 if letter == '0'
+run
+next
+step
+continue # this line is super important!!!
+print letter
+print is_in_range
+quit
